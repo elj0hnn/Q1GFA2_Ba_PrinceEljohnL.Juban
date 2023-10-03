@@ -1,0 +1,41 @@
+*{margin: 0px; padding: 0px;}
+.banner{
+    background-image: url(blackpink.jpeg);
+    height:325px;
+    position: relative;
+}
+*{margin: 0px; padding: 0px;}
+.navbar{
+   
+    margin:20px; 
+    padding:1px;
+    position: absolute;
+}
+#links{display: block;}
+#links a{
+    text-decoration: none;
+    margin: 5px;
+    padding: 1px;
+    
+    background-color: rgb(255, 159, 247);
+    color: black;
+    opacity: .75;
+    transition: .4s;
+}
+
+.center{
+    float: left;
+    
+    margin: 10px;
+    padding-block: 10px;
+    margin-left: 250px;
+    left: 15vh;
+}
+
+.hello{
+    float: right;
+
+    margin:20px; 
+    padding:1px;
+
+}
